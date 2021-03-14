@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2011/11/25 09:07:16.000.083,=C:\Users\Japie\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2011/11/26 12:07:18.000.684,=C:\Users\Japie\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/08/15 19:20:23.000.807,=C:\Users\Japie\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/12/10 13:50:22.000.715,=C:\Users\Japie\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2013/08/11 09:08:19.000.475,=C:\Users\JAPIE\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2013/12/11 14:47:43.000.206,=C:\Users\JAPIE\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2013/12/11 14:47:50.000.750,C:\Users\JAPIE\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\JAPIE\Documents\RAD Studio\Projects\main.dfm</Transaction>
+    <Transaction>2013/12/11 14:47:50.000.750,C:\Users\JAPIE\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\JAPIE\Documents\RAD Studio\Projects\main.pas</Transaction>
+    <Transaction>2013/12/11 14:48:13.000.176,C:\Users\JAPIE\Documents\RAD Studio\Projects\main.dfm=C:\Users\JAPIE\Documents\RAD Studio\myAnime\main.dfm</Transaction>
+    <Transaction>2013/12/11 14:48:13.000.176,C:\Users\JAPIE\Documents\RAD Studio\Projects\main.pas=C:\Users\JAPIE\Documents\RAD Studio\myAnime\main.pas</Transaction>
+    <Transaction>2013/12/11 14:48:22.000.478,C:\Users\JAPIE\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\JAPIE\Documents\RAD Studio\myAnime\myAnime.dproj</Transaction>
+    <Transaction>2013/12/11 15:04:33.000.951,=C:\Users\JAPIE\Documents\RAD Studio\myAnime\Unit1.pas</Transaction>
+    <Transaction>2013/12/11 15:04:59.000.247,C:\Users\JAPIE\Documents\RAD Studio\myAnime\Unit1.dfm=C:\Users\JAPIE\Documents\RAD Studio\myAnime\insert.dfm</Transaction>
+    <Transaction>2013/12/11 15:04:59.000.247,C:\Users\JAPIE\Documents\RAD Studio\myAnime\Unit1.pas=C:\Users\JAPIE\Documents\RAD Studio\myAnime\insert.pas</Transaction>
+    <Transaction>2013/12/12 10:53:15.000.569,=C:\Users\JAPIE\Documents\RAD Studio\myAnime\Unit1.pas</Transaction>
+    <Transaction>2013/12/12 10:53:19.000.138,C:\Users\JAPIE\Documents\RAD Studio\myAnime\edit.dfm=C:\Users\JAPIE\Documents\RAD Studio\myAnime\Unit1.dfm</Transaction>
+    <Transaction>2013/12/12 10:53:19.000.138,C:\Users\JAPIE\Documents\RAD Studio\myAnime\edit.pas=C:\Users\JAPIE\Documents\RAD Studio\myAnime\Unit1.pas</Transaction>
+    <Transaction>2013/12/12 10:54:31.000.678,=C:\Users\JAPIE\Documents\RAD Studio\myAnime\Unit1.pas</Transaction>
+    <Transaction>2013/12/12 10:54:36.000.743,C:\Users\JAPIE\Documents\RAD Studio\myAnime\delete.pas=C:\Users\JAPIE\Documents\RAD Studio\myAnime\Unit1.pas</Transaction>
+    <Transaction>2013/12/12 10:54:36.000.743,C:\Users\JAPIE\Documents\RAD Studio\myAnime\delete.dfm=C:\Users\JAPIE\Documents\RAD Studio\myAnime\Unit1.dfm</Transaction>
+    <Transaction>2013/12/12 10:55:02.000.690,=C:\Users\JAPIE\Documents\RAD Studio\myAnime\Unit1.pas</Transaction>
+    <Transaction>2013/12/12 10:55:15.000.383,C:\Users\JAPIE\Documents\RAD Studio\myAnime\view.pas=C:\Users\JAPIE\Documents\RAD Studio\myAnime\Unit1.pas</Transaction>
+    <Transaction>2013/12/12 10:55:15.000.383,C:\Users\JAPIE\Documents\RAD Studio\myAnime\view.dfm=C:\Users\JAPIE\Documents\RAD Studio\myAnime\Unit1.dfm</Transaction>
+    <Transaction>2013/12/14 10:22:31.000.358,=C:\Users\JAPIE\Documents\RAD Studio\myAnime\Unit1.pas</Transaction>
+    <Transaction>2013/12/14 10:22:35.000.241,C:\Users\JAPIE\Documents\RAD Studio\myAnime\data.dfm=C:\Users\JAPIE\Documents\RAD Studio\myAnime\Unit1.dfm</Transaction>
+    <Transaction>2013/12/14 10:22:35.000.241,C:\Users\JAPIE\Documents\RAD Studio\myAnime\data.pas=C:\Users\JAPIE\Documents\RAD Studio\myAnime\Unit1.pas</Transaction>
+    <Transaction>2013/12/14 10:27:54.000.977,=C:\Users\JAPIE\Documents\RAD Studio\myAnime\Unit1.pas</Transaction>
+    <Transaction>2013/12/14 10:28:11.000.776,C:\Users\JAPIE\Documents\RAD Studio\myAnime\Unit1.dfm=C:\Users\JAPIE\Documents\RAD Studio\myAnime\splash.dfm</Transaction>
+    <Transaction>2013/12/14 10:28:11.000.776,C:\Users\JAPIE\Documents\RAD Studio\myAnime\Unit1.pas=C:\Users\JAPIE\Documents\RAD Studio\myAnime\splash.pas</Transaction>
+    <Transaction>2013/12/14 10:33:18.000.893,C:\Users\JAPIE\Documents\RAD Studio\myAnime\data.pas=</Transaction>
+    <Transaction>2013/12/14 10:33:35.000.115,=C:\Users\JAPIE\Documents\RAD Studio\myAnime\Unit1.pas</Transaction>
+    <Transaction>2013/12/14 10:33:49.000.567,C:\Users\JAPIE\Documents\RAD Studio\myAnime\Unit1.dfm=C:\Users\JAPIE\Documents\RAD Studio\myAnime\datta.dfm</Transaction>
+    <Transaction>2013/12/14 10:33:49.000.567,C:\Users\JAPIE\Documents\RAD Studio\myAnime\Unit1.pas=C:\Users\JAPIE\Documents\RAD Studio\myAnime\datta.pas</Transaction>
+    <Transaction>2013/12/14 10:35:24.000.077,C:\Users\JAPIE\Documents\RAD Studio\myAnime\datta.pas=C:\Users\JAPIE\Documents\RAD Studio\myAnime\data.pas</Transaction>
+    <Transaction>2013/12/14 10:35:24.000.077,C:\Users\JAPIE\Documents\RAD Studio\myAnime\datta.dfm=C:\Users\JAPIE\Documents\RAD Studio\myAnime\data.dfm</Transaction>
+    <Transaction>2013/12/18 09:18:38.000.309,=C:\Users\JAPIE\Documents\RAD Studio\myAnime\Unit1.pas</Transaction>
+    <Transaction>2013/12/18 09:19:01.000.919,C:\Users\JAPIE\Documents\RAD Studio\myAnime\editForm.dfm=C:\Users\JAPIE\Documents\RAD Studio\myAnime\Unit1.dfm</Transaction>
+    <Transaction>2013/12/18 09:19:01.000.919,C:\Users\JAPIE\Documents\RAD Studio\myAnime\editForm.pas=C:\Users\JAPIE\Documents\RAD Studio\myAnime\Unit1.pas</Transaction>
+    <Transaction>2013/12/26 18:56:36.000.744,=C:\Users\JAPIE\Documents\RAD Studio\myAnime\Unit1.pas</Transaction>
+    <Transaction>2013/12/26 18:56:49.000.898,C:\Users\JAPIE\Documents\RAD Studio\myAnime\Unit1.pas=C:\Users\JAPIE\Documents\RAD Studio\myAnime\alphaView.pas</Transaction>
+    <Transaction>2013/12/26 18:56:49.000.898,C:\Users\JAPIE\Documents\RAD Studio\myAnime\Unit1.dfm=C:\Users\JAPIE\Documents\RAD Studio\myAnime\alphaView.dfm</Transaction>
+    <Transaction>2013/12/26 18:58:47.000.052,=C:\Users\JAPIE\Documents\RAD Studio\myAnime\Unit1.pas</Transaction>
+    <Transaction>2013/12/26 18:58:53.000.209,=C:\Users\JAPIE\Documents\RAD Studio\myAnime\Unit2.pas</Transaction>
+    <Transaction>2013/12/26 18:59:57.000.391,C:\Users\JAPIE\Documents\RAD Studio\myAnime\Unit1.pas=C:\Users\JAPIE\Documents\RAD Studio\myAnime\typeView.pas</Transaction>
+    <Transaction>2013/12/26 18:59:57.000.391,C:\Users\JAPIE\Documents\RAD Studio\myAnime\Unit1.dfm=C:\Users\JAPIE\Documents\RAD Studio\myAnime\typeView.dfm</Transaction>
+    <Transaction>2013/12/26 19:01:14.000.836,C:\Users\JAPIE\Documents\RAD Studio\myAnime\Unit2.pas=C:\Users\JAPIE\Documents\RAD Studio\myAnime\statusView.pas</Transaction>
+    <Transaction>2013/12/26 19:01:14.000.836,C:\Users\JAPIE\Documents\RAD Studio\myAnime\Unit2.dfm=C:\Users\JAPIE\Documents\RAD Studio\myAnime\statusView.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
